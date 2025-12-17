@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for cgm-remote-monitor-szni2a on 2025-12-17T00:59:57Z
+# fly.toml app configuration file generated for cgm-remote-monitor-lhdy8a on 2025-12-17T01:13:45Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'cgm-remote-monitor-szni2a'
+app = 'cgm-remote-monitor-lhdy8a'
 primary_region = 'gru'
 
 [build]
